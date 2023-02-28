@@ -1,0 +1,4 @@
+#Wed Mar 01 01:45:45 NPT 2023
+base.0=/Users/aakash/Documents/fultter/flutter-food-delivery-app-ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
